@@ -1,0 +1,4 @@
+Admin,SmartLockAdmin,admin123,addUser,Harshit,HarshitRFID,HarshitFace,HarshitFingerprint
+Admin,SmartLockAdmin,admin123,addUser,Danielle,DanielleRFID,DanielleFace,DanielleFingerprint
+Admin,SmartLockAdmin,admin123,addUser,Asad,AsadRFID,AsadFace,AsadFingerprint
+User,Harshit,HarshitRFID,HarshitFa,HarshitFinger
